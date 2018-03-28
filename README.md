@@ -1,6 +1,6 @@
 Bootstrap 4 Big Grid
 ==================
-A set of larger grid options for Bootstrap.
+A set of larger grid options for Bootstrap 4.0.
 
 Documentation and Tests
 =======================
@@ -14,6 +14,7 @@ Bootstraps Grid only provides a grid up to 1200px wide, this project provides mo
 Changelog
 =========
 28/03/2018 Changed name of project
+
 09/10/2017 Updated grid class names and sizes for a more even spread of breakpoints at higher resolutions and to ensure future class compatibility with Bootstrap 4.
 - ```col-xlg-*``` => ```col-hd-*```
 - ```col-uhd-*``` => ```col-4k-*```, breakpoint at 3840px
