@@ -1,10 +1,11 @@
-Bootstrap Big Grid
+Bootstrap 4 Big Grid
 ==================
 A set of larger grid options for Bootstrap.
 
 Documentation and Tests
 =======================
 http://benwhitehead.github.io/bootstrap-big-grid/
+forked from thedutchess/bootstrap-big-grid
 
 Motivation
 ==========
@@ -12,6 +13,7 @@ Bootstraps Grid only provides a grid up to 1200px wide, this project provides mo
 
 Changelog
 =========
+28/03/2018 Changed name of project
 09/10/2017 Updated grid class names and sizes for a more even spread of breakpoints at higher resolutions and to ensure future class compatibility with Bootstrap 4.
 - ```col-xlg-*``` => ```col-hd-*```
 - ```col-uhd-*``` => ```col-4k-*```, breakpoint at 3840px
@@ -24,16 +26,16 @@ Usage
 =====
 The easiest way to use Bootstrap Big Grid is with Bower
 ```bash
-bower install --save bootstrap-big-grid
+bower install --save bootstrap4-big-grid
 ```
 
-Alternatively download a [release](https://github.com/BenWhitehead/bootstrap-big-grid/releases) and use the css files in the dist directory.
+Alternatively download a [release](https://github.com/Rombecchi/bootstrap4-big-grid/releases) and use the css files in the dist directory.
 
 Then link it into your page after the main bootstrap css
 
 ```html
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
-<link rel="stylesheet" href="bower_components/bootstrap-big-grid/dist/css/bootstrap-big-grid.min.css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="bower_components/bootstrap4-big-grid/dist/css/bootstrap4-big-grid.min.css"/>
 ```
 
 New Classes
@@ -68,10 +70,11 @@ New Classes
 Project Status
 ==============
 
-Unfortunately I no longer work on UI projects and as such I don't have the time required to keep this project always up to date with the latest version of bootstrap.  If you would like to submit a PR i'd be happy to merge it as long as it doesn't break existing functionality. Or, if you'd like feel free to fork the repo and start making improvments.
+I'll continue to update this project until it will be outdated from technology. Please report any inconvenience. Thanks.
+If you want feel free to fork the repo and start making improvments.
 
-Thanks for your understanding.
 
 Copyright and License
 =====================
 Copyright 2013-2014 Ben Whitehead under the Apache 2.0 license.
+forked from Marjolein Flinders (thedutchess) on  Jul 28, 2017
