@@ -13,6 +13,7 @@ Bootstraps Grid only provides a grid up to 1200px wide, this project provides mo
 
 Changelog
 =========
+30/03/2018 Updated container with class to enlarge fitting screen size proportionally
 28/03/2018 Changed name of project
 
 09/10/2017 Updated grid class names and sizes for a more even spread of breakpoints at higher resolutions and to ensure future class compatibility with Bootstrap 4.
@@ -78,4 +79,5 @@ If you want feel free to fork the repo and start making improvments.
 Copyright and License
 =====================
 Copyright 2013-2014 Ben Whitehead under the Apache 2.0 license.
-forked from Marjolein Flinders (thedutchess) on  Jul 28, 2017
+
+Forked from Marjolein Flinders (thedutchess) on  Jul 28, 2017
