@@ -13,7 +13,7 @@ Bootstraps Grid only provides a grid up to 1200px wide, this project provides mo
 
 Changelog
 =========
-30/03/2018 [v. 0.3.0] Updated container with class to enlarge fitting screen size proportionally
+30/03/2018 [v. 0.3.0] Updated container with class to enlarge fitting screen size proportionally. Removed float to divs.
 
 28/03/2018 Changed name of project
 
