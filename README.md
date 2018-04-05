@@ -53,22 +53,14 @@ New Classes
 `.col-5k-`   : 5120 x 2880  
 `.col-8k-`   : 7680 x 4320  
 
-### New Responsive Utilities Classes
-`.visible-hd`  
-`.visible-fhd`  
-`.visible-rt`  
-`.visible-rt15`  
-`.visible-4k`  
-`.visible-5k`  
-`.visible-8k`  
+### New Classes
+`.offset-xx-yy`  : Left margin (xx = resolution || yy = columns)
   
-`.hidden-hd`  
-`.hidden-fhd`  
-`.hidden-rt`  
-`.hidden-rt15`  
-`.hidden-4k`  
-`.hidden-5k`  
-`.hidden-8k`  
+`.d-xx`  : Show column only in xx resolution (block/table/tr/th/td)
+`.d-xx-block`  : Show column only in xx resolution (block)
+`.d-xx-inline-block`  : Show column only in xx resolution (inline-block)
+`.d-xx-inline`  : Show column only in xx resolution (inline)
+
 
 Project Status
 ==============
