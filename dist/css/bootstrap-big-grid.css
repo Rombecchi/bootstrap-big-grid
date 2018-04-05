@@ -22,9 +22,7 @@
 }
 @media (min-width: 1366px) {
 	.container.c-hd {max-width: 1280px;}
-  .col-hd-1, .col-hd-2, .col-hd-3, .col-hd-4, .col-hd-5, .col-hd-6, .col-hd-7, .col-hd-8, .col-hd-9, .col-hd-10, .col-hd-11, .col-hd-12 {
-    float: left;
-  }
+
   .col-hd-12 {
     flex: 0 0 100%;
     max-width: 100%;
@@ -116,9 +114,7 @@
 }
 @media (min-width: 1920px) {
 	.container.c-fhd {max-width: 1800px;}
-  .col-fhd-1, .col-fhd-2, .col-fhd-3, .col-fhd-4, .col-fhd-5, .col-fhd-6, .col-fhd-7, .col-fhd-8, .col-fhd-9, .col-fhd-10, .col-fhd-11, .col-fhd-12 {
-    float: left;
-  }
+
   .col-fhd-12 {
     flex: 0 0 100%;
     max-width: 100%;
@@ -209,9 +205,7 @@
 }
 @media (min-width: 2560px) {
 	.container.c-rt {max-width: 2400px;}
-  .col-rt-1, .col-rt-2, .col-rt-3, .col-rt-4, .col-rt-5, .col-rt-6, .col-rt-7, .col-rt-8, .col-rt-9, .col-rt-10, .col-rt-11, .col-rt-12 {
-    float: left;
-  }
+
   .col-rt-12 {
     flex: 0 0 100%;
     max-width: 100%;
@@ -302,9 +296,7 @@
 }
 @media (min-width: 2880px) {
 	.container.c-rt15 {max-width: 2700px;}
-  .col-rt15-1, .col-rt15-2, .col-rt15-3, .col-rt15-4, .col-rt15-5, .col-rt15-6, .col-rt15-7, .col-rt15-8, .col-rt15-9, .col-rt15-10, .col-rt15-11, .col-rt15-12 {
-    float: left;
-  }
+
   .col-rt15-12 {
     flex: 0 0 100%;
     max-width: 100%;
@@ -395,9 +387,7 @@
 }
 @media (min-width: 3840px) {
 	.container.c-4k {max-width: 3600px;}
-  .col-4k-1, .col-4k-2, .col-4k-3, .col-4k-4, .col-4k-5, .col-4k-6, .col-4k-7, .col-4k-8, .col-4k-9, .col-4k-10, .col-4k-11, .col-4k-12 {
-    float: left;
-  }
+
   .col-4k-12 {
     flex: 0 0 100%;
     max-width: 100%;
@@ -488,9 +478,7 @@
 }
 @media (min-width: 5120px) {
 	.container.c-5k {max-width: 4800px;}
-  .col-5k-1, .col-5k-2, .col-5k-3, .col-5k-4, .col-5k-5, .col-5k-6, .col-5k-7, .col-5k-8, .col-5k-9, .col-5k-10, .col-5k-11, .col-5k-12 {
-    float: left;
-  }
+
   .col-5k-12 {
     flex: 0 0 100%;
     max-width: 100%;
@@ -581,9 +569,7 @@
 }
 @media (min-width: 7680px) {
 	.container.c-8k {max-width: 7200px;}
-  .col-8k-1, .col-8k-2, .col-8k-3, .col-8k-4, .col-8k-5, .col-8k-6, .col-8k-7, .col-8k-8, .col-8k-9, .col-8k-10, .col-8k-11, .col-8k-12 {
-    float: left;
-  }
+
   .col-8k-12 {
     flex: 0 0 100%;
     max-width: 100%;
